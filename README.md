@@ -1,8 +1,9 @@
 ## Installation 
 
-Execute
+Execute:
 ``
 composer install
-
+``
+``
 npm install
 ``
